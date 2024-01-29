@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="completed the first task">
-      <change afterPath="$PROJECT_DIR$/hw1_2.html" afterDir="false" />
+    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="completed the second task of the first lesson">
+      <change afterPath="$PROJECT_DIR$/hw1_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.hw1_1.html.executor": "Run",
     "JavaScript Debug.hw1_2.html.executor": "Run",
+    "JavaScript Debug.hw1_3.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706558709218</updated>
-      <workItem from="1706558710484" duration="2484000" />
+      <workItem from="1706558710484" duration="4199000" />
     </task>
     <task id="LOCAL-00001" summary="completed the first task">
       <option name="closed" value="true" />
@@ -69,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706560052920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed the second task of the first lesson">
+      <option name="closed" value="true" />
+      <created>1706561253059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706561253059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed the first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed the first task" />
+    <MESSAGE value="completed the second task of the first lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed the second task of the first lesson" />
   </component>
 </project>
