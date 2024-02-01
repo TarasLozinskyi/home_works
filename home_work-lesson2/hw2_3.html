@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hw2_3</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            color: white;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .container {
+            max-width: 1140px;
+            margin: 30px auto;
+        }
+
+        .header, .contact {
+            background-color: cornflowerblue;
+            border-radius: 6px;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 50px;
+        }
+
+        .box__list {
+            padding: 50px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .box {
+            height: 400px;
+            width: 30%;
+            background-color: blue;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 35px;
+        }
+
+        .contact {
+            height: 600px;
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <span>Widgets</span>
+    </div>
+    <div class="box__list">
+        <div class="box"><span>Big Widgets</span></div>
+        <div class="box"><span>Bigger Widgets</span></div>
+        <div class="box"><span>Huge Widgets</span></div>
+    </div>
+    <div class="contact">
+        <span>Contact</span>
+    </div>
+</div>
+
+</body>
+</html>

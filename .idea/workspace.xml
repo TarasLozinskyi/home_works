@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="completed the first task of the second lesson">
-      <change afterPath="$PROJECT_DIR$/home_work-lesson2/hw2_2.html" afterDir="false" />
+    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="completed the second task of the second lesson">
+      <change afterPath="$PROJECT_DIR$/home_work-lesson2/hw2_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <workItem from="1706641441852" duration="16000" />
       <workItem from="1706692213926" duration="113000" />
       <workItem from="1706692368171" duration="927000" />
-      <workItem from="1706752468643" duration="3365000" />
+      <workItem from="1706752468643" duration="4539000" />
     </task>
     <task id="LOCAL-00001" summary="completed the first task">
       <option name="closed" value="true" />
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706755377332</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="completed the second task of the second lesson">
+      <option name="closed" value="true" />
+      <created>1706755914348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706755914348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +150,8 @@
     <MESSAGE value="completed the last task of the first lesson" />
     <MESSAGE value="changed the structure of the project, added folders for each homework" />
     <MESSAGE value="completed the first task of the second lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed the first task of the second lesson" />
+    <MESSAGE value="completed the second task of the second lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed the second task of the second lesson" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
