@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .box__list {
+            max-width: 1140px;
+            height: 300px;
+            margin: 0 auto;
+            background-color: blanchedalmond;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        .box {
+            height: 100px;
+            width: 100px;
+            background-color: red;
+            transition: .5s;
+        }
+
+        .box:hover {
+            border-radius: 50%;
+            background-color: gray;
+            transition: .5s;
+        }
+    </style>
+</head>
+<body>
+<div class="box__list">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</div>
+
+</body>
+</html>
