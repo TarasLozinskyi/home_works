@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>hw3_1_1</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <style>
+      body {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Inter', sans-serif;
+          font-size: 45px;
+      }
+
+      .flex {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+
+      .header {
+          height: 20vh;
+          background: #D9D9D9;
+      }
+
+      .main {
+          display: flex;
+      }
+
+      .news {
+          width: 15vw;
+          height: 60vh;
+          background: #817C7C;
+      }
+
+      .sponsor {
+          width: 15vw;
+          height: 60vh;
+          background: #B7AEAE;
+      }
+
+      .content {
+          display: flex;
+          flex-direction: column;
+      }
+
+      .content-one {
+
+          width: 70vw;
+          height: 30vh;
+          background: #ABA8A8;
+      }
+
+      .content-two {
+          background: #878484;
+          width: 70vw;
+          height: 30vh;
+      }
+
+      .footer {
+          height: 20vh;
+          background: #BDBDBD;
+      }
+  </style>
+</head>
+<body>
+<header class="header flex">
+  Header
+</header>
+<main class="main">
+  <article class="news flex">
+    News-1
+  </article>
+  <section class="content">
+    <div class="content-one flex">
+      Content-1
+    </div>
+    <div class="content-two flex">
+      Content-2
+    </div>
+  </section>
+
+  <aside class="sponsor flex">
+    Sponsor
+  </aside>
+</main>
+<footer class="footer flex">
+  Footer
+</footer>
+</body>
+</html>
