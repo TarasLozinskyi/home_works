@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="completed the third task of the second lesson">
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/home_works3_1/hw3-1_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/home_works3_1/hw3_1_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/home_works3_1/hw3_1_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/home_works3_1/hw3_1_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/home_works3_1/hw3_1_4.html" afterDir="false" />
+    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="the first homework of the third lesson">
+      <change afterPath="$PROJECT_DIR$/home_work_lesson3/hw3_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work-lesson2/hw2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_work-lesson2/hw2_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +93,7 @@
       <workItem from="1706835372248" duration="1323000" />
       <workItem from="1706874621925" duration="4637000" />
       <workItem from="1707145843849" duration="556000" />
-      <workItem from="1707205134318" duration="7559000" />
+      <workItem from="1707205134318" duration="9283000" />
     </task>
     <task id="LOCAL-00001" summary="completed the first task">
       <option name="closed" value="true" />
@@ -156,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706757163752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="the first homework of the third lesson">
+      <option name="closed" value="true" />
+      <created>1707213698142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707213698142</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +173,8 @@
     <MESSAGE value="completed the first task of the second lesson" />
     <MESSAGE value="completed the second task of the second lesson" />
     <MESSAGE value="completed the third task of the second lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed the third task of the second lesson" />
+    <MESSAGE value="the first homework of the third lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="the first homework of the third lesson" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

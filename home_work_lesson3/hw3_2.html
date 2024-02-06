@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>hw3_2</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <style>
+
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+
+      }
+
+      html {
+          scroll-behavior: smooth;
+      }
+
+      body {
+          font-family: 'Inter', sans-serif;
+          text-align: center;
+          color: white;
+
+      }
+
+      a {
+          text-decoration: none;
+          color: inherit;
+          font-size: 2.5em;
+
+      }
+
+      .flex {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+      }
+
+      p {
+          width: 70vw;
+      }
+
+      .header {
+          height: 100vh;
+          background: #AA9898;
+          gap: 30px;
+
+      }
+
+      .content {
+          height: 100vh;
+          background: #5E5050;
+          gap: 30px;
+
+      }
+
+      .footer {
+          height: 100vh;
+          background: #9B6F6F;
+          gap: 30px;
+
+      }
+
+
+  </style>
+</head>
+<body>
+<header class="header flex" id="header">
+  <h2>
+    Lorem ipsum dolor sit amet.
+  </h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab eum magni, nobis porro provident velit voluptatem?
+    Aspernatur esse fuga harum provident? Architecto distinctio doloremque inventore, optio possimus sequi soluta.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cumque officiis repudiandae temporibus? A architecto,
+    doloribus error ex, exercitationem harum illo maxime placeat reiciendis repudiandae saepe soluta temporibus ullam
+    unde!</p>
+  <a href="#content">&#8595;</a>
+</header>
+<main>
+  <section class="content flex" id="content">
+    <a href="#header">&#8593;</a>
+    <h2>
+      Lorem ipsum dolor sit amet.
+    </h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab eum magni, nobis porro provident velit voluptatem?
+      Aspernatur esse fuga harum provident? Architecto distinctio doloremque inventore, optio possimus sequi soluta.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cumque officiis repudiandae temporibus? A architecto,
+      doloribus error ex, exercitationem harum illo maxime placeat reiciendis repudiandae saepe soluta temporibus ullam
+      unde!</p>
+    <a href="#footer">&#8595;</a>
+  </section>
+</main>
+<footer class="footer flex" id="footer">
+  <a href="#content">&#8593;</a>
+  <h2>
+    Lorem ipsum dolor sit amet.
+  </h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab eum magni, nobis porro provident velit voluptatem?
+    Aspernatur esse fuga harum provident? Architecto distinctio doloremque inventore, optio possimus sequi soluta.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cumque officiis repudiandae temporibus? A architecto,
+    doloribus error ex, exercitationem harum illo maxime placeat reiciendis repudiandae saepe soluta temporibus ullam
+    unde!</p>
+
+</footer>
+
+</body>
+</html>
