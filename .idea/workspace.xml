@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="the second homework of the fourth lesson">
-      <change afterPath="$PROJECT_DIR$/home_work_lesson5/hw5_1.html" afterDir="false" />
+    <list default="true" id="352bfdfd-06bb-4d5e-b080-32c1b31da786" name="Changes" comment="the first homework of the fifth lesson">
+      <change afterPath="$PROJECT_DIR$/home_work_lesson5/hw5_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,7 @@
       <workItem from="1707375995659" duration="23247000" />
       <workItem from="1707417048444" duration="1942000" />
       <workItem from="1707485150199" duration="2179000" />
-      <workItem from="1707558896191" duration="5699000" />
+      <workItem from="1707558896191" duration="7484000" />
     </task>
     <task id="LOCAL-00001" summary="completed the first task">
       <option name="closed" value="true" />
@@ -211,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707400339483</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="the first homework of the fifth lesson">
+      <option name="closed" value="true" />
+      <created>1707567857136</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707567857136</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +238,8 @@
     <MESSAGE value="the third homework of the third lesson" />
     <MESSAGE value="the first homework of the fourth lesson" />
     <MESSAGE value="the second homework of the fourth lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="the second homework of the fourth lesson" />
+    <MESSAGE value="the first homework of the fifth lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="the first homework of the fifth lesson" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
