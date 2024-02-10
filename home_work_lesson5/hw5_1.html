@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>hw5_1</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+  <style>
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+
+      .cards {
+          font-family: 'Inter', sans-serif;
+          height: 100vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+
+      .cards-list {
+          width: 70%;
+          height: 60%;
+          display: flex;
+          justify-content: space-between;
+      }
+
+      .cards-item {
+          width: 25%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          border: 0.6vh solid #554C4C;
+
+
+          background: rgba(217, 217, 217, 0.30);
+      }
+
+      .cards-item:hover {
+          border: 0.6vh solid #65856E;
+
+
+      }
+
+      .cards-item > h2 {
+          font-size: 4vh;
+      }
+
+      .cards-item > p {
+          font-size: 2vh;
+          text-align: center;
+      }
+
+      .cards-item > img {
+          width: 70%;
+      }
+
+      .cards-icon {
+
+          width: 10vh;
+          height: 10vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: absolute;
+          top: -9%;
+
+          background-color: white;
+          border: 0.6vh solid #554C4C;
+
+
+          border-radius: 100%;
+
+      }
+
+      .cards-icon > img {
+          width: 70%;
+      }
+
+
+  </style>
+</head>
+<body>
+<section class="cards">
+  <div class="cards-list">
+    <div class="cards-item">
+      <h2>Lorem</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <div class="cards-icon">
+        <img src="images/ds3.png" alt="ds3-icon">
+      </div>
+    </div>
+    <div class="cards-item">
+      <h2>Lorem</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <div class="cards-icon">
+        <img src="images/chessboard.png" alt="chessboard-icon">
+      </div>
+    </div>
+    <div class="cards-item">
+      <h2>Lorem</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <div class="cards-icon">
+        <img src="images/battle.png" alt="battle-icon">
+      </div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
